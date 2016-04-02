@@ -1,4 +1,4 @@
-# Arduino library for temperature sensors [![Build Status](https://travis-ci.org/yoreek/Arduino-TemperatureSensor.svg?branch=master)](https://travis-ci.org/yoreek/Arduino-TemperatureSensor)
+# Arduino library for temperature sensors [![Build Status](https://travis-ci.org/yoreek/Arduino-TemperatureSensor.svg)](https://travis-ci.org/yoreek/Arduino-TemperatureSensor)
 
 * Version: 1.0.0
 * Release Date: 2016-04-02
